@@ -23,7 +23,7 @@ jobs:
         port: 21
         # The local folder to copy, defaults to root project folder
         # The remote folder to copy to, deafults to root FTP folder (I recommend you configure this on your server side instead of here)
-        remote_dir: /kalku
+        remote_dir: ./kalku
         # Passes through options into lftp
         
 
